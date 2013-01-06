@@ -1,4 +1,4 @@
-# ShoddyStocks
+# ShoddySticks
 
 This is an IRC bot that implements a variant of the game of [Nim][]. The
 program was created by [Cathy Fitzpatrick][cathyjf] in July 2009. It is
